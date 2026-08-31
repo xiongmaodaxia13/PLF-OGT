@@ -1,0 +1,9 @@
+python>=3.10
+numpy
+pandas
+torch
+scikit-learn
+matplotlib
+python-docx
+openpyxl
+fonttools
